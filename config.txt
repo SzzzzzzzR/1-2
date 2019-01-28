@@ -1,5 +1,5 @@
 token= NTM3NjcyNDA2OTQ1MjM0OTQ0.Dyop_A.S61_MG_cZNMmE7CyErZuoOlfI-o
-owner= 523832987104837642 
+owner= 366218441230778368 
 prefix= 1
 game= Tyep 1help
 stayinchannel=true
